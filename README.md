@@ -1,4 +1,4 @@
-![269824659-5a4feb00-0eb2-437c-81cd-b4db1ef11410](https://github.com/elamarannn/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/113497531/bc698e32-5ddb-48c9-9904-1c772b6c35ce)# OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY
+# OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY
 ## AIM:
 
 To Install the OS in the computer system
